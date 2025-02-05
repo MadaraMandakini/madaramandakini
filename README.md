@@ -8,13 +8,11 @@ Hey! I'm Madara Mandakini 👋 I'm a data science student who is currently worki
 
 <p>
   <a href="#">
-      <img src="https://img.shields.io/badge/build-with_love-brightgreen?style=for-the-badge
-  ">
-  <a>
+      <img src="https://img.shields.io/badge/build-with_love-brightgreen?style=for-the-badge">
+  </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=madaramandakini&style=for-the-badge&base=1000" alt="Profile views counter">
   </a>
-  
 </p>
 
 ## Certifications:
